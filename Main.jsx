@@ -36,6 +36,7 @@ export default function Main() {
 
     function removeIngredient(ingredient) {
         setIngredients(prevIngredients => prevIngredients.filter(item => item !== ingredient))
+        setRecipe("")
     }
 
     return (
