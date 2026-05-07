@@ -46,6 +46,7 @@ export default function Main() {
                     placeholder="e.g. oregano"
                     aria-label="Add ingredient"
                     name="ingredient"
+                    required={true}
                 />
                 <button>Add ingredient</button>
                 <p>Add more than three ingredients</p>
