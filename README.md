@@ -1,7 +1,7 @@
 # Chef Claude 🍳
 
 
-[![Demo](./images/demo-chef-claude.png)](https://vandidenko-chef-claude.netlify.app/)
+[![Demo](./images/demo-chef-claude.png)](https://ivandidenko-chef-claude.netlify.app/)
 
 > Click the image to view the demo. The link will open in the current tab (press `Ctrl + Click` or `Cmd + Click` to open in a new tab).
 
